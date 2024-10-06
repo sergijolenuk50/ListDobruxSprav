@@ -1,0 +1,8 @@
+.list1{
+    background-color: blueviolet;
+    color:white;
+    border-radius: 6px;
+    margin: 8px;
+   
+    transition: 0.2s;
+}
